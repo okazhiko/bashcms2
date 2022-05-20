@@ -1,0 +1,5 @@
+contents="bashcms2_contents.git"
+contents_owner="okazhiko"
+wwwdir="/home/kaoyama/www"
+contentsdir="$wwwdir/$contents"
+appdir="$wwwdir/bashcms2"
